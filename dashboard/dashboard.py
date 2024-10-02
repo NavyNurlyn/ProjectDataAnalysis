@@ -82,7 +82,7 @@ max_date = all_df["order_approved_at"].max()
 
 with st.sidebar:
     st.markdown('<h2 style="text-align: left;">Welcome to Dashboard</h2>', unsafe_allow_html=True)
-    st.image("dashboard\Logo.png", width=230)
+    st.image("dashboard/Logo.png", width=230)
     # Mengambil start_date & end_date dari date_input
     start_date, end_date = st.date_input(
         label='Masukkan Rentang Waktu',
