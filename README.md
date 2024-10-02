@@ -21,7 +21,7 @@ Untuk menjalankan analisis pada notebook Jupyter:
 
 ### Menjalankan Dashboard Streamlit
 
-Untuk menjalankan dasbor interaktif:
+Untuk menjalankan dasbor interaktif melalui lokal:
 
 1. Instal semua dependensi jika belum dilakukan:
    ```bash
@@ -31,3 +31,6 @@ Untuk menjalankan dasbor interaktif:
    ```bash
    streamlit run dashboard/dashboard.py
    ```
+Untuk menjalankan dasbor secara online:
+
+https://projectdataanalysis-jviotazfbu82sugh9bwzdv.streamlit.app/
