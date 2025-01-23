@@ -31,6 +31,6 @@ Untuk menjalankan dasbor interaktif melalui lokal:
    ```bash
    streamlit run dashboard/dashboard.py
    ```
-Untuk menjalankan dasbor secara online:
+Untuk menjalankan dashboard secara online:
 
 https://projectdataanalysis-jviotazfbu82sugh9bwzdv.streamlit.app/
